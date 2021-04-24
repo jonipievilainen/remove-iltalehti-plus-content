@@ -1,5 +1,5 @@
 {
-   "name":"Alert 'hello world!' on page opening",
+   "name":"Remove Iltalehti plus content",
    "version":"1.0",
    "manifest_version":2,
    "permissions":[
